@@ -31,4 +31,9 @@ I built this to explore how AI can help with studying.
 ## Portfolio:https://imim-portfolio.vercel.app/
 
 
-[![Open LinkedIn](https://img.shields.io/badge/Open%20LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/imim05)
+<a href="https://www.linkedin.com/in/imim05">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
+</a>
+<a href="https://www.linkedin.com/in/imim05">
+  <img src="https://img.shields.io/badge/Open-0A66C2?style=for-the-badge&logo=none" />
+</a>
