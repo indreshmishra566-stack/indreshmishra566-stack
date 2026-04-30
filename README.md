@@ -36,7 +36,7 @@ I built this to explore how AI can help with studying.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/imim05" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/imim05">
     <span style="
       background-color:#333333;
       color:#0A66C2;
@@ -45,8 +45,12 @@ I built this to explore how AI can help with studying.
       font-weight:600;
       font-size:14px;
       font-family:sans-serif;
+      display:inline-block;
     ">
       Open Profile
+    </span>
+  </a>
+</p>
     </span>
   </a>
 </p>
