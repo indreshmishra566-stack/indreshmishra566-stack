@@ -31,12 +31,13 @@ I built this to explore how AI can help with studying.
 ## Portfolio: https://imim-portfolio.vercel.app/
 
 
+
 <p align="left">
   <a href="https://www.linkedin.com/in/imim05">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/imim05">
-    <img src="https://img.shields.io/badge/Open%20Profile-0A66C2?style=for-the-badge&color=000000&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Open%20Profile-000000?style=for-the-badge" />
   </a>
 </p>
