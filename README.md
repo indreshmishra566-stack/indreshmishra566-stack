@@ -1,19 +1,35 @@
+# Hi, I'm Indresh 👋
 
-Hey !     
-       I am a Python Full Stack Developer focused on building modern, scalable, and user-centric web applications.
-I specialize in technologies like React, Django, and deployment platforms like Render ,Versal , and I enjoy turning real-world problems into efficient digital solutions.
-  
- 🧑‍💻My Work:
-        Most of my work is around backend systems using Django & Django REST Framework, where I design APIs, handle data flow, and think about how systems behave in production. On the frontend, I use React to build 
-clean, usable interfaces.
-       (•)AIU — Adaptive Intelligence Unit,An AI system that builds persistent memory from user interactions and
- learns behavior over time. Designed as a context-aware decision engine, not just a chatbot.
-       (•)VIDA — AI Video-to-Study Material GeneratorTransforms long-form video into structured study content including summaries, key points, and quizzes using AI pipelines.
-💡 I focus on:
-• Clean architecture & scalable backend systems
-• Building real-world applications, not tutorial projects
-• AI/ML development (LLMs, embeddings, context-aware systems)
+I like building web apps and figuring out how things work behind the scenes.  
+Most of what I do is backend with Django, and I use React when I need a frontend.
 
-Currently open to internships and developer roles.
+Lately, I’ve also been experimenting with AI features in my projects.
 
-🌐 Portfolio: https://imim-portfolio.vercel.app/
+---
+
+## Tech I use
+
+- Django, Django REST Framework  
+- PostgreSQL, Redis  
+- React (with Vite)
+
+---
+
+## Some things I’ve built
+
+### AIU
+A project where I tried building a system that remembers user interactions and responds based on that.  
+Mainly focused on backend logic and data flow.
+
+---
+
+### VIDA
+Takes video content and turns it into notes and summaries.  
+I built this to explore how AI can help with studying.
+
+
+## Portfolio:
+https://imim-portfolio.vercel.app/
+
+##LinkedIn:
+https://www.linkedin.com/in/imim05  
