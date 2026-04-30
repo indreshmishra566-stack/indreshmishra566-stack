@@ -28,8 +28,7 @@ Takes video content and turns it into notes and summaries.
 I built this to explore how AI can help with studying.
 
 
-## Portfolio:
-https://imim-portfolio.vercel.app/
+## Portfolio:https://imim-portfolio.vercel.app/
 
 <a href="https://www.linkedin.com/in/imim05">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
