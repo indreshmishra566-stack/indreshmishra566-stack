@@ -36,16 +36,7 @@ I built this to explore how AI can help with studying.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/imim05" style="text-decoration:none;">
-    <span style="
-      border:1px solid #0A66C2;
-      padding:4px 10px;
-      border-radius:6px;
-      color:#0A66C2;
-      font-size:14px;
-      font-weight:500;
-    ">
-      Open Profile
-    </span>
+  <a href="https://www.linkedin.com/in/imim05">
+    <img src="https://img.shields.io/badge/Open%20Profile-0A66C2?style=for-the-badge&color=000000&labelColor=000000" />
   </a>
 </p>
