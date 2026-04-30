@@ -37,6 +37,6 @@ I built this to explore how AI can help with studying.
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/imim05">
-    <img src="https://img.shields.io/badge/Open%20Profile-062F5B?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Open%20Profile-333333?style=for-the-badge&logoColor=white" />
   </a>
 </p>
