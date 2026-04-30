@@ -8,7 +8,7 @@ Lately, I’ve also been experimenting with AI features in my projects.
 ---
 
 ## Tech I use
-
+- Python
 - Django, Django REST Framework  
 - PostgreSQL, Redis  
 - React (with Vite)
@@ -37,6 +37,6 @@ I built this to explore how AI can help with studying.
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/imim05">
-    <img src="https://img.shields.io/badge/Open%20Profile-084B8A?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Open%20Profile-062F5B?style=for-the-badge&logoColor=white" />
   </a>
 </p>
