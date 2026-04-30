@@ -31,5 +31,5 @@ I built this to explore how AI can help with studying.
 ## Portfolio:
 https://imim-portfolio.vercel.app/
 
-##LinkedIn:
+LinkedIn:
 https://www.linkedin.com/in/imim05  
